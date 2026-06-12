@@ -1,2 +1,5 @@
-# Trabajo_Practio1_Info2
-Este es el TP N1
+TRABAJO PRACTICO N1 - INFORMATICA 2
+
+Alumno: Farias Caceres Maximiliano
+
+
